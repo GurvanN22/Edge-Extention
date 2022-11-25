@@ -1,0 +1,12 @@
+{
+    "name": "YTB Vidéo dowloader",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "description": "An extension to dowload YTB vidéo "
+    "icons": {
+        "16": "icons/icons16.png",
+    },
+    "action": {
+        "default_page": "main/index.html"
+    }
+}
